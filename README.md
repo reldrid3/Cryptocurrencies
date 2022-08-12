@@ -1,7 +1,7 @@
 # Cryptocurrencies
 Columbia University Data Analyst Bootcamp Module on Unsupervised Learning
 
-## Deliverable 1-4
+## Deliverables 1-4
 All tables and code for deliverables can be found in the [crypto_clustering.ipynb](crypto_clustering.ipynb) file.
 
 ## Screenshots for Deliverable 4
